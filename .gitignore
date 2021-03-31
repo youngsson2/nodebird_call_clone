@@ -1,0 +1,4 @@
+cnode_modules
+uploads
+*.log
+.env
